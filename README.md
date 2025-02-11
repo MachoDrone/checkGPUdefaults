@@ -6,6 +6,7 @@ It is strongly preferred and suggested to not overclock or undervolt your GPU.
 You can check the colums in this script to compare your settings.
  
  Every NVIDIA GPU model reports differently. Your GPU model may report multiple N/A
+NVIDIA Ampere Architecture may provide the most details.
 
 ```wget -qO- https://github.com/MachoDrone/checkGPUdefaults/raw/main/checkGPUdefaults.sh | bash```
 
